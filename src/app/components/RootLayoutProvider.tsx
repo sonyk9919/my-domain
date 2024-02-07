@@ -1,5 +1,7 @@
 "use client";
 
+import "@/styles/global.css";
+
 import COLOR from "@/styles/color";
 import { ThemeProvider } from "@emotion/react";
 
